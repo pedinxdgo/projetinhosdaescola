@@ -7,9 +7,9 @@ pares de 0 a 10 e o segundo bloco deve imprimir os numeros impares
 
 */
 {
-    console.log("0, 2 ,4 ,6 ,8, 10");
+    console.log("Numreros pares\n0, 2 ,4 ,6 ,8, 10");
 }
 
 {
-    console.log("1, 3, 5, 7, 9");
+    console.log("Numeros impares\n1, 3, 5, 7, 9");
 }
