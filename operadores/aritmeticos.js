@@ -11,9 +11,10 @@ console.log(90 % 9); // resto da divisão
 let a = 100;
 let b = 200;
 console.log(a + b); //adição
-console.log(a - b); // subtração
+console.log(a - b); // subtração               
 console.log(a / b); // divisão
 console.log(a * b); // multiplicação
 console.log(a ** b); // potencia
 console.log(a % b); // resto da divisão
 
+    
